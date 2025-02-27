@@ -32,8 +32,8 @@ Explore a collection of animation tutorials on my YouTube channel, covering CSS,
 
 ## 💡 Follow & Connect
 🔹 **Subscribe:** [YouTube](https://www.youtube.com/channel/UCAqd1kcxJ_XBL9FiTyhQbhg/)  
-🔹 **GitHub:** [Your GitHub Profile](https://github.com/)  
-🔹 **Twitter:** [Your Twitter Handle](https://twitter.com/)  
+🔹 **GitHub:** ([https://github.com/itz-arnav](https://github.com/itz-arnav/))  
+🔹 **Twitter:** [(https://x.com/ArnavJha07)]((https://x.com/ArnavJha07))  
 
 📩 Have suggestions or requests? Let me know in the comments!
 
