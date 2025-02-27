@@ -10,7 +10,7 @@ Explore a collection of animation tutorials on my YouTube channel, covering CSS,
 ![Neon Border Animation](https://github.com/user-attachments/assets/8f85c1c8-5ed2-4889-ae78-c6312f9d836d)
 
 ### 🔹 What You'll Learn:
-- Creating glowing neon effects using CSS.
+- Creating glowing neon effects using QML.
 - Implementing smooth animations for an eye-catching design.
 - Optimizing animations for better performance.
 
