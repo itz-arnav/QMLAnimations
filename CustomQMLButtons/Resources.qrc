@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/confetti_1.png</file>
+        <file>images/confetti_2.png</file>
+        <file>images/confetti_3.png</file>
+        <file>images/1.svg</file>
+        <file>images/2.svg</file>
+        <file>images/3.svg</file>
+        <file>images/check.svg</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
