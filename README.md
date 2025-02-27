@@ -9,7 +9,7 @@ Explore a collection of animation tutorials on my YouTube channel, covering CSS,
 ## ✨ Featured Animations: Neon Border Animation
 ![Neon Border Animation](https://github.com/user-attachments/assets/8f85c1c8-5ed2-4889-ae78-c6312f9d836d)
 
-## ✨ Featured Animations: Neon Border Animation
+## ✨ Featured Animations: Tab Navbar Animation
 ![Tab_Navbar_Animations](https://github.com/user-attachments/assets/d1e32d59-19ae-4216-bc16-4a90b6c855d4)
 
 
