@@ -1,7 +1,42 @@
-#List of Animations taught in my YouTube channel:
 
-https://www.youtube.com/channel/UCAqd1kcxJ_XBL9FiTyhQbhg/
+## 📺 My YouTube Channel
+[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCAqd1kcxJ_XBL9FiTyhQbhg/)
 
-#Neon Border Animation:
-![Screenshot_1](https://github.com/user-attachments/assets/8f85c1c8-5ed2-4889-ae78-c6312f9d836d)
+Explore a collection of animation tutorials on my YouTube channel, covering CSS, JavaScript, and other creative web effects.
 
+---
+
+## ✨ Featured Animation: Neon Border Animation
+![Neon Border Animation](https://github.com/user-attachments/assets/8f85c1c8-5ed2-4889-ae78-c6312f9d836d)
+
+### 🔹 What You'll Learn:
+- Creating glowing neon effects using CSS.
+- Implementing smooth animations for an eye-catching design.
+- Optimizing animations for better performance.
+
+📌 **Watch the tutorial here:** [Click to watch](https://www.youtube.com/channel/UCAqd1kcxJ_XBL9FiTyhQbhg/)
+
+---
+
+## 📜 List of Animations
+✔️ **Neon Border Animation**
+✔️ **Text Glitch Effect**
+✔️ **Button Hover Animations**
+✔️ **Loading Spinners & Progress Bars**
+✔️ **3D Card Flip Animation**
+✔️ **Many More...**
+
+🔔 **Stay Updated:** More animations are added regularly!
+
+---
+
+## 💡 Follow & Connect
+🔹 **Subscribe:** [YouTube](https://www.youtube.com/channel/UCAqd1kcxJ_XBL9FiTyhQbhg/)  
+🔹 **GitHub:** [Your GitHub Profile](https://github.com/)  
+🔹 **Twitter:** [Your Twitter Handle](https://twitter.com/)  
+
+📩 Have suggestions or requests? Let me know in the comments!
+
+---
+
+**🚀 Keep Learning & Keep Animating!**
